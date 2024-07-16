@@ -33,7 +33,21 @@ Este programa te permite explorar una biblioteca virtual con diversas funcionali
 
 0️⃣ **Salir**
 
-   Cierra el programa.
+   Cierra el programa
+
+   
+## Autores Registrados:
+Austen, Jane  
+Shakespeare, William  
+[Otros autores...]
+
+## Top 10 Libros Más Descargados:
+Pride and Prejudice - 62,862 descargas  
+Romeo and Juliet - 54,976 descargas  
+[Otros libros...]
+
+Este sistema te permite explorar y gestionar fácilmente una colección de libros y autores, proporcionando acceso rápido a la información que necesitas. ¡Disfruta explorando la biblioteca virtual con estilo! 🔍📖
+
 
 ## Ejemplo de Libros Registrados:
 
