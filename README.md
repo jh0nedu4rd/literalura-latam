@@ -34,7 +34,7 @@ Este programa te permite explorar una biblioteca virtual con diversas funcionali
 0️⃣ **Salir**
 
    Cierra el programa
-
+## Ejemplo de Libros Registrados:
    
 ## Autores Registrados:
 Austen, Jane  
@@ -47,7 +47,4 @@ Romeo and Juliet - 54,976 descargas
 [Otros libros...]
 
 Este sistema te permite explorar y gestionar fácilmente una colección de libros y autores, proporcionando acceso rápido a la información que necesitas. ¡Disfruta explorando la biblioteca virtual con estilo! 🔍📖
-
-
-## Ejemplo de Libros Registrados:
 
